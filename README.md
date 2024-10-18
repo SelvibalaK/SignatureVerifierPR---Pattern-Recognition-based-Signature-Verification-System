@@ -9,9 +9,9 @@ The dataset consists of two categories of images:
 The images are preprocessed to ensure uniformity in size and quality, allowing the model to accurately distinguish between real and forged signatures.
 
 ## Features
-**CNN-based pattern recognition:** The system uses a CNN model to extract signature features and classify them.
-**Data augmentation:** Includes rotation, shear, and zoom augmentation techniques to improve model generalization.
-**Prediction of Forged or Genuine:** Once trained, the model can predict whether a new signature is real or forged.
+- **CNN-based pattern recognition:** The system uses a CNN model to extract signature features and classify them.
+- **Data augmentation:** Includes rotation, shear, and zoom augmentation techniques to improve model generalization.
+- **Prediction of Forged or Genuine:** Once trained, the model can predict whether a new signature is real or forged.
 
 ## Installation
 ### Prerequisites
